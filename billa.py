@@ -17,7 +17,7 @@ priceSelector = "productDetailsPrice"  # label
 articlenrSelector = "productDetailsArticleNumber"  # label
 # unitSelector # not needed. included in price
 price_unitSelector = "productDetailsPricePerUnit"
-categorySelector = "breadcrumbs"  # li and href for each category How to store category?
+categorySelector = "breadcrumbs"  # li and href for each category
 amountSelector = "productDetailsDescription"
 
 date = datetime.datetime.now().strftime("%Y-%m-%d")
